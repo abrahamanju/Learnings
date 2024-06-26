@@ -1,2 +1,3 @@
 #### Learnings-2
-#### Based on learnings in project: Analyzing stock performance and building a dashboard
+#### Analyzing stock performance and building a dashboard
+#### Linear Regression project: Business analysis for ecommerce company

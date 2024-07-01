@@ -5,3 +5,4 @@
 #### 4) KNN project: To classify a bunch of features to a target column when the data is classified
 #### 5) Decision tree and Random Forest: Classify and predict whether or not the borrower paid back their loan in full, using lending data
 #### 6) Support Vector Machine and Grid Search: Classify iris species based on petal and sepal dimensions
+#### 7) K Means Clustering: To cluster Universities into to two groups, Private and Public
